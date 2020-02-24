@@ -1,6 +1,8 @@
+---
 layout: page
-title: "PAGE TITLE"
+title: About
 permalink: /papers/
+---
 
 Paper 1
 * Paper 2
